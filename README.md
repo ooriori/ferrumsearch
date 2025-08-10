@@ -91,11 +91,3 @@ Contacto
 
 ---
 
-###  Sugerencias para llevarlo aún más lejos
-
-- Añade una imagen o logo con el nombre del proyecto e inclúyela en la sección principal.
-- Incluye badges (estado de build, cobertura de tests, licencias, crates.io si lo publicas).
-- Crea archivos `LICENSE` y `CONTRIBUTING.md` para profesionalizar aún más el repositorio.
-
-¿Quieres que te ayude a generar también un **Dockerfile** o los badges para integrarlos directamente en el README?
-::contentReference[oaicite:0]{index=0}
